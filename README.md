@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ahmtluu
-- 👀 I’m interested in C++/OpenCV, JavaScript/React, PHP/Laravel, Java/Spring Boot and Swift
-- 🌱 I’m currently learning Spring Boot and Swift-UI
+- 👋 Hi, I’m Ahmet Mutlu
+- 👀 I’m interested in C++/OpenCV, JavaScript/Vue-Nuxt, Java/Spring Boot and Flutter
+- 🌱 I’m currently learning Spring Boot and microservices (Docker, Kubernetes, Kafka and ElasticSearch)
 - 📫 You can reach me ahmtt.mtlu@gmail.com
-
-
